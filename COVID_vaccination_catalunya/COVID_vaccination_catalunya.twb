@@ -1767,7 +1767,7 @@
         <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
           <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97880' id='12' param='horz' w='98698' x='651' y='1060'>
             <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='97880' id='5' w='98698' x='651' y='1060'>
-              <zone h='97880' id='3' name='Casos vs Vacunacio' show-title='false' w='47107' x='651' y='1060'>
+              <zone h='97880' id='3' name='Casos vs Vacunacio' show-title='false' w='47106' x='651' y='1060'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1775,7 +1775,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='97880' id='10' name='Ingresos vs Vacunacio' show-title='false' w='51591' x='47758' y='1060'>
+              <zone h='97880' id='10' name='Ingresos vs Vacunacio' show-title='false' w='51592' x='47757' y='1060'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1799,9 +1799,9 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='19' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97880' id='18' param='vert' w='98698' x='651' y='1060'>
-                <zone fixed-size='280' h='97880' id='3' is-fixed='true' name='Casos vs Vacunacio' show-title='false' w='47107' x='651' y='1060'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='21' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97880' id='20' param='vert' w='98698' x='651' y='1060'>
+                <zone fixed-size='280' h='97880' id='3' is-fixed='true' name='Casos vs Vacunacio' show-title='false' w='47106' x='651' y='1060'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1819,7 +1819,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='97880' id='10' is-fixed='true' name='Ingresos vs Vacunacio' show-title='false' w='51591' x='47758' y='1060'>
+                <zone fixed-size='280' h='97880' id='10' is-fixed='true' name='Ingresos vs Vacunacio' show-title='false' w='51592' x='47757' y='1060'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1884,8 +1884,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1100' minheight='1100' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='35' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97718' id='34' param='vert' w='98666' x='667' y='1141'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='37' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97718' id='36' param='vert' w='98666' x='667' y='1141'>
                 <zone fixed-size='280' h='97718' id='3' is-fixed='true' name='Vacunació per comarca (mapa)' w='98666' x='667' y='1141'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2000,8 +2000,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='21' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='20' param='vert' w='84000' x='8000' y='8000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='23' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='22' param='vert' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='48936' id='3' is-fixed='true' name='Casos detectats setm. PCR' show-title='false' w='49330' x='667' y='1061'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2285,7 +2285,7 @@
       </viewpoint>
       <simple-id uuid='{3F179B37-3A32-40C6-B1B8-DB3E3A8AB4B8}' />
     </window>
-    <window class='dashboard' name='Dashboard 1' tab-color='#4f779a'>
+    <window class='dashboard' maximized='true' name='Dashboard 1' tab-color='#4f779a'>
       <viewpoints>
         <viewpoint name='Vacunació per comarca (mapa)'>
           <current-page>
@@ -2519,7 +2519,7 @@
       <device-preview visible='true' />
       <simple-id uuid='{698605AC-79FE-4C0A-8C7E-70541BE1127B}' />
     </window>
-    <window class='dashboard' maximized='true' name='Casos i ingresos vs Vacunació' tab-color='#6e597f'>
+    <window class='dashboard' name='Casos i ingresos vs Vacunació' tab-color='#6e597f'>
       <viewpoints>
         <viewpoint name='Casos vs Vacunacio'>
           <zoom type='entire-view' />
