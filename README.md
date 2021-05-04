@@ -5,4 +5,5 @@ Data sources: [Link to COVID data in Catalunya by _comarca_](https://dadescovid.
 
 Example of a visualization: 
 
-![alt text](https://github.com/sarabase/TableauVisualizations/blob/main/COVID_vaccination_catalunya/images/dashboardImage.png "Main dashboard image")
+![Dashboard screenshot](https://github.com/sarabase/TableauVisualizations/blob/main/COVID_vaccination_catalunya/images/dashboardImage_withTooltip.png "Main dashboard image")
+![Dashboard gif](https://github.com/sarabase/TableauVisualizations/blob/main/COVID_vaccination_catalunya/images/vacunacioCovid_Gener_Maig_2021.gif "Dashboard animation over time")
