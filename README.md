@@ -2,6 +2,7 @@
 
 ## COVID Data Catalunya
 Data sources: [Link to COVID data in Catalunya by _comarca_](https://dadescovid.cat/static/csv/comarques_diari_total_pob.zip) from DadesCovid offered by the _Generalitat de Catalunya_. 
+
 The latest update uses the database from the following day: 26/05/2021.
 
 ### Visualizations related to Covid Vaccination
