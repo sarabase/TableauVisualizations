@@ -1,7 +1,8 @@
 # TableauVisualizations
 
 ## COVID Data Catalunya
-Data sources: [Link to COVID data in Catalunya by _comarca_](https://dadescovid.cat/static/csv/comarques_diari_total_pob.zip) from DadesCovid offered by the _Generalitat de Catalunya_.
+Data sources: [Link to COVID data in Catalunya by _comarca_](https://dadescovid.cat/static/csv/comarques_diari_total_pob.zip) from DadesCovid offered by the _Generalitat de Catalunya_. 
+The latest update uses the database from the following day: 26/05/2021.
 
 ### Visualizations related to Covid Vaccination
 
@@ -15,9 +16,10 @@ Covid Vaccination by <em>comarca</em>         |  Animated Visualization
   
 ### Visualizations related to Covid Testing
 
-<p align="center">
-<img align="center" src="https://github.com/sarabase/TableauVisualizations/blob/main/COVID_vaccination_catalunya/images/PCR_TAR_tests.png" width="700"> 
-  
-  
-<img align="center" src="https://github.com/sarabase/TableauVisualizations/blob/main/COVID_vaccination_catalunya/images/casesDetected_v_doses.png" width="700">
-</p>
+Cases detected vs Covid vaccination |
+:-------------------------:|
+<img align="center" src="https://github.com/sarabase/TableauVisualizations/blob/main/COVID_vaccination_catalunya/images/PCR_TAR_tests.png" width="700"> |
+
+Cases detected and hospitalizations vs Covid vaccination |
+:-------------------------:|
+<img align="center" src="https://github.com/sarabase/TableauVisualizations/blob/main/COVID_vaccination_catalunya/images/casesDetected_v_doses.png" width="700"> |
